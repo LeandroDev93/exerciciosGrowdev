@@ -30,7 +30,7 @@ const lista = [
         "media": 78
     },    
 ];
-
+ 
 //inicializar uma variável para somar as médias
 var somaMedia = 0;
 var maiorMedia = 0;
